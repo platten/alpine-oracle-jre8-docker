@@ -21,3 +21,5 @@ RUN curl -o hello.jar https://raw.githubusercontent.com/apcera/sample-apps/maste
 
 CMD java -jar hello.jar
 ```
+
+> *Note:* Unstable branch is untested glibc 2.24 alpine packages
